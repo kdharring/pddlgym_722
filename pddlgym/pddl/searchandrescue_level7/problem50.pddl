@@ -219,7 +219,7 @@
 	(person-at person1 f1-5f)
 	(pickup person0)
 	(pickup person1)
-	(robot-at robot0 f0-3f)
+	(robot-at robot0 f0-2f)
 	(wall-at wall2-2 f2-2f)
 	(wall-at wall2-3 f2-3f)
 	(wall-at wall2-4 f2-4f)
